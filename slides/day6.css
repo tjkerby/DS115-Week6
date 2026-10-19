@@ -1,0 +1,22 @@
+.reveal .slide.title-slide h2 { color: white; border-left: none; padding-left: 0; font-size: 1.85em; }
+.reveal .slide.title-slide .big-idea { color: #F4EEDC; }
+.reveal .slide.title-slide strong { color: white; }
+.reveal .source-note { font-size: .54em; line-height: 1.4; color: #58606A; margin-top: 1.1em; }
+.reveal .source-note a { color: #0057A7; }
+.reveal .comparison-table table { font-size: .75em; }
+.reveal .comparison-table td { vertical-align: top; }
+.reveal .compact-list { font-size: .88em; }
+.reveal .slides > section > h2 { margin-top: 0; }
+.reveal .notes { display: none; }
+.reveal .data-table { max-width: 1050px; margin: .6em 0; }
+.reveal .data-table table { font-size: 1em; }
+.reveal .data-table td:last-child { font-weight: 750; color: #002E5D; }
+.reveal .big-stat { font-size: 2.7em; font-weight: 750; line-height: 1.1; color: #002E5D; margin: .25em 0; }
+.reveal .reflection-prompts { font-size: .86em; }
+.reveal .reflection-prompts li { margin-bottom: .55em; }
+.reveal .supporting { line-height: 1.45; }
+.reveal .survey-layout { display: grid; grid-template-columns: 1.1fr 1fr; gap: 1.1em; align-items: center; }
+.reveal .survey-qr { display: block; width: 520px !important; height: 520px !important; max-height: 520px !important; max-width: 100%; margin: 0 auto; object-fit: contain; background: white; }
+.reveal .survey-text > p { overflow-wrap: anywhere; }
+.reveal .survey-text li { margin-bottom: .65em; }
+

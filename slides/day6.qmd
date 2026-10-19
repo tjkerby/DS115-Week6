@@ -1,0 +1,283 @@
+---
+title: "Week 6: Where Can Data Science Take Me?"
+format:
+  revealjs:
+    css: day6.css
+    title-slide: false
+    chalkboard: false
+    pdf-max-pages-per-slide: 1
+    hash: true
+    embed-resources: true
+    slide-number: c/t
+---
+
+
+## Where can data science take me? {.section-card background-color="#002E5D"}
+
+A bachelor's degree gives you a foundation for contributing to data work.
+
+::: {.big-idea}
+How can graduate education and experience change the work you do and the responsibility you take on?
+:::
+
+::: {.notes}
+Week 6. Spend about 1 minute here, then move straight to graduate education. The first eight slides of the earlier draft have been condensed into this single opening. Avoid repeating the earlier lectures on job titles, work settings, and the interdisciplinary process. A bachelor's is a starting point, not a career ceiling. Use the remaining time for the degree discussion, research environments, and student questions. The last three slides are optional reference material. The survey is available at https://forms.gle/EtDPQS7N3yaDtz8f9 and appears as a QR code and clickable link later in the deck. Keep responses private and paraphrase selected questions. No attendance password is stored in this deck.
+:::
+
+## A master's degree
+
+Develop more depth in a field or specialization.
+
+- Compare and adapt methods for more demanding problems
+- Take greater ownership of technical projects as you gain experience
+- Build research experience when the program includes it
+
+::: {.supporting}
+Look at the actual program: coursework, projects, thesis, and opportunities to work with others.
+:::
+
+::: {.notes}
+About 1 minute. Explain professional/coursework programs and research/thesis programs in plain language. Requirements differ, so avoid a universal split. Do not describe master's graduates as restricted to supporting researchers or leading at small companies. BLS reports that statisticians typically need a master's, with some entry positions accepting a bachelor's: https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm. The Google example later illustrates experience and education as alternative advertised qualifications. Additional technical depth is an educational aim, not a guarantee of promotion.
+:::
+
+## A PhD
+
+Develop sustained experience conducting original research.
+
+- Identify an unanswered question worth investigating
+- Develop an approach and assess its limitations
+- Produce and defend a contribution to what is known
+
+::: {.supporting}
+Much of the learning comes from pursuing a question whose answer is uncertain.
+:::
+
+::: {.notes}
+About 2 minutes. Explain a dissertation in accessible language. A PhD includes coursework but also an extended research process with feedback and growing independence. Source for dissertation and original research: https://www.bls.gov/ooh/education-training-and-library/postsecondary-teachers.htm. After introducing this generally, optionally share what surprised you about your own graduate training or how you learned you enjoyed research. Do not invent an anecdote or suggest doctoral graduates automatically begin as senior leaders.
+:::
+
+## Research independence and leadership
+
+| Responsibility | What it involves |
+|---|---|
+| Research independence | Forming questions and judging how to investigate them |
+| Technical leadership | Guiding methods, systems, and technical decisions |
+| Organizational leadership | Coordinating people, resources, and priorities |
+
+::: {.supporting}
+These responsibilities overlap. Each develops through relevant practice and experience.
+:::
+
+::: {.notes}
+About 1 minute. This is a conceptual distinction, not a survey result. A PhD trains research independence in a specific area. Leadership also depends on communication, judgment, domain knowledge, experience, and organizational trust. A new doctoral graduate may still need substantial guidance in a new workplace. Someone with a bachelor's and many years of relevant work may have much broader responsibility.
+:::
+
+## Education and research work
+
+Among employed computer and mathematical scientists in the United States:
+
+::: {.data-table}
+| Highest degree | R&D as primary work activity |
+|---|---:|
+| Bachelor's | About 12% |
+| Master's | About 13% |
+| Doctorate | About 34% |
+:::
+
+::: {.source-note}
+NSF, National Survey of College Graduates, 2023, [Table 3-1](https://www.ncses.nsf.gov/pubs/nsf25322/assets/data-tables/tables/nsf25322-tab003-001.pdf). R&D includes basic research, applied research, and development. This occupation group is broader than data science.
+:::
+
+::: {.notes}
+About 2 minutes including the following slide. Percentages calculated from rounded published counts: bachelor's 357,000/2,989,000 = 11.94%; master's 174,000/1,353,000 = 12.86%; doctorate 72,000/211,000 = 34.12%. Table 3-1 pages 2, 4, and 5 in one-based PDF numbering. Primary work activity means the main category, not whether someone ever participates in research. The broad group includes computer and information scientists, mathematical scientists, and postsecondary computer/math teachers. It is not restricted to industry or data scientists. Source: https://www.ncses.nsf.gov/pubs/nsf25322/assets/data-tables/tables/nsf25322-tab003-001.pdf. Values verified October 19, 2026. Do not imply these numbers measure independent research, leadership, ability, or causal returns to a degree.
+:::
+
+## What can we conclude?
+
+- Doctorate holders in this group more often reported research as their main activity.
+- The bachelor's and master's groups look similar on this measure.
+- The table does not measure leadership or autonomy.
+
+::: {.prompt}
+What else would you want to know before explaining the differences?
+:::
+
+::: {.notes}
+Allow one or two answers. Possible considerations: prior interests, specialization, sector, age, career experience, and the kinds of jobs people seek. This is an association rather than a causal effect of earning a degree. Keep it as a short evidence-reading moment rather than a statistics lesson. Source is the same NSF table as the previous slide. A bachelor's holder contributing to research need not have R&D as their primary activity, and a doctorate holder may choose other kinds of work.
+:::
+
+## Leadership also develops through experience
+
+**Google: Senior Staff Product Data Scientist**
+
+- Responsibilities include technical direction, statistical infrastructure, and mentoring senior colleagues.
+- Advertised minimum: bachelor's plus **13 years** of relevant experience, or master's plus **10 years**.
+
+::: {.supporting}
+This example shows an advertised route to substantial technical responsibility without a PhD.
+:::
+
+::: {.source-note}
+[Google Careers: Senior Staff Product Data Scientist, Merchant Shopping](https://www.google.com/about/careers/applications/jobs/results/109185093674640070), accessed October 19, 2026. A single posting does not establish typical hiring outcomes.
+:::
+
+::: {.notes}
+About 1 minute. Paraphrase rather than quote the posting. Minimum education: bachelor's in a relevant quantitative field. Required experience: 13 years, or 10 with a master's. Master's is also listed among preferred qualifications. The responsibilities include architecture for statistical experimentation and mentoring senior colleagues. Use this to counter the idea that degree level fixes a career ceiling. The posting does not tell us the degree of the eventual hire, how often this route occurs, or the causal value of further education. The link may later expire, so retain this dated summary. Source: https://www.google.com/about/careers/applications/jobs/results/109185093674640070.
+:::
+
+## Research beyond universities
+
+::: {.big-stat}
+Over 90%
+:::
+
+of notable AI models in 2025 came from industry.
+
+::: {.supporting}
+An example of industry's substantial role in AI research and development.
+:::
+
+::: {.source-note}
+[Stanford HAI, 2026 AI Index, Research and Development](https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development). This measure concerns notable AI models, not all data science research.
+:::
+
+::: {.notes}
+About 1 minute. The chapter states industry produced over 90% of notable AI models in 2025. This does not mean industry performs 90% of all AI or data science research. Model development and publication counts are different measures. Source: https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development, reviewed October 19, 2026. Connect to the next slide about the environments that make certain questions feasible, while marking that explanation as interpretation rather than a causal result of the percentage.
+:::
+
+## The research environment matters
+
+- Access to useful data and computing resources
+- Colleagues with relevant expertise
+- Opportunities to test ideas in practice
+- Freedom to choose questions and share findings
+
+::: {.supporting}
+Different workplaces offer different combinations of these conditions.
+:::
+
+::: {.notes}
+About 1 minute. Discuss the user's point that companies may have advantages in compute, proprietary data, and deployment at scale, especially in resource-intensive AI. Universities and other organizations can offer different research agendas and collaboration or publication opportunities. Avoid treating either environment as uniformly superior. These are considerations for evaluating a particular workplace, not statistics established by the AI model count. After discussing the general idea, an optional brief personal example from industry, a national laboratory, or academia can add nuance.
+:::
+
+## Considering graduate school
+
+- What work would I like to become better prepared to do?
+- Does this program offer the training and experience I want?
+- For research, who would I work with and on what questions?
+- What would the time, funding, and personal commitments involve?
+
+::: {.notes}
+About 2 minutes. Students need not choose now. Briefly explain that program names alone do not establish fit. Different fields, including statistics, computer science, data science, biostatistics, and application areas, can provide relevant preparation. Ask about the actual curriculum, graduate experiences, research mentorship, and outcomes. Funding arrangements vary by program and offer. Students should confirm tuition, stipend, fees, conditions, duration, and living costs directly. Avoid blanket promises about funding or employment. They can work first or explore research during the undergraduate degree to gather information.
+:::
+
+## Choosing a next step {.question-slide background-color="#F4EEDC"}
+
+::: {.prompt}
+What would you want to learn about a job or graduate program before deciding whether to pursue it?
+:::
+
+::: {.supporting}
+Think for a moment, then compare with a neighbor.
+:::
+
+::: {.notes}
+Allow about 2 minutes for the exchange. The shorter opening leaves more time for the degree discussion and student questions. Hear examples of useful information, not final career commitments. Connect to informational interviews and the earlier mentoring discussion. If you are behind, shorten this exchange to preserve the survey and student questions. Do not add another graded planning task.
+:::
+
+## Your final reflection
+
+::: {.reflection-prompts}
+1. What do you understand about data science now that you did not understand at the beginning?
+2. Which parts interest you most, and what course experiences informed that conclusion?
+3. What have you learned about academic pathways, BYU resources, or professional opportunities?
+4. What important question are you still trying to answer?
+5. What specific action will you take during the next semester?
+:::
+
+::: {.notes}
+Allow 3 minutes for initial notes, not a completed submission. These are shortened versions of the assignment questions. The reflection page preserves the full assignment wording. Ask students to refer to specific course experiences. They can use today's discussion to refine their ideas and submit using the existing assignment process. No new deadline or grading requirement is introduced here. They are not expected to have their future determined. A clearer direction, better evidence, or a more useful question is a good outcome.
+:::
+
+## Course feedback and questions
+
+::: {.survey-layout}
+::: {.survey-text}
+Scan the QR code or open:
+
+[forms.gle/EtDPQS7N3yaDtz8f9](https://forms.gle/EtDPQS7N3yaDtz8f9)
+
+- Share feedback and a question for discussion.
+- Find the attendance quiz password after submitting.
+
+::: {.supporting}
+Submit your final reflection separately through the assignment.
+:::
+:::
+::: {.survey-image}
+<a href="https://forms.gle/EtDPQS7N3yaDtz8f9" aria-label="Open the DS 115 course survey"><img class="survey-qr" src="../assets/survey-qr.png" alt="QR code for https://forms.gle/EtDPQS7N3yaDtz8f9" width="520" height="520"></a>
+:::
+:::
+
+::: {.notes}
+Allow about 5 minutes. The instructor supplied the completed survey URL: https://forms.gle/EtDPQS7N3yaDtz8f9. The QR encodes this exact address and the visible link is clickable. Read responses privately and group similar questions. Do not project the response summary, feedback, timestamps, or any identifying details. Paraphrase selected discussion questions. The final reflection remains a separate assignment. The survey's actual questions and completion message are managed in Google Forms.
+:::
+
+## Your questions
+
+::: {.big-idea}
+What would you like to talk through before we finish?
+:::
+
+::: {.notes}
+Protect about 10 minutes. Group similar anonymous questions and paraphrase them. Invite verbal follow-ups as well. Distinguish your experience, general patterns, and information you would need to verify. If no questions arrive, backup prompts are in the reference slides after the closing. Avoid displaying response timestamps or raw reflections. Students may use the unresolved question from their reflection as their anonymous submission.
+:::
+
+## As you continue
+
+::: {.big-idea}
+You have more ways to explore the field, people to learn from, and questions worth pursuing.
+:::
+
+Thank you for being part of DS 115.
+
+::: {.notes}
+About 2 minutes. Offer your own brief closing about what you hope students take from the course. Remind them to check Canvas for any remaining work and the existing deadlines, especially the final reflection. Do not invent dates or suggest prior assignments need repeating. End here during the normal lecture. The remaining slides are reference material, not an additional lecture segment.
+:::
+
+## Reference: questions about graduate programs
+
+- What do graduates of this program go on to do?
+- What experiences are available beyond coursework?
+- How does research advising work?
+- What funding is offered, for how long, and under what conditions?
+- How does the program fit my circumstances and interests?
+
+::: {.notes}
+Optional reference only. Students can ask current graduate students as well as faculty and program staff. Distinguish advertised funding from the details of an actual offer. For admissions prerequisites, direct-entry PhD options, or deferral, check the particular program's current rules rather than generalizing.
+:::
+
+## Reference: questions we could discuss
+
+- How can I learn whether I enjoy research?
+- What might I learn by working before graduate school?
+- Do I need a master's before applying for a PhD?
+- How can I compare programs and funding offers?
+- What if my first job differs from what I expected?
+
+::: {.notes}
+Optional backup questions. Return to the Your questions slide if using these to prompt discussion. Address program-specific admissions and funding questions with appropriate uncertainty and point students to the actual program. Leave room for work, family, and other personal circumstances when discussing decisions.
+:::
+
+## Reference: sources {.compact-list}
+
+- [NSF: National Survey of College Graduates, 2023, Table 3-1](https://www.ncses.nsf.gov/pubs/nsf25322/assets/data-tables/tables/nsf25322-tab003-001.pdf)
+- [Google: Senior Staff Product Data Scientist, Merchant Shopping](https://www.google.com/about/careers/applications/jobs/results/109185093674640070)
+- [Stanford HAI: 2026 AI Index, Research and Development](https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development)
+- [BLS: Data Scientists](https://www.bls.gov/ooh/math/data-scientists.htm)
+- [BLS: Mathematicians and Statisticians](https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm)
+- [BLS: Computer and Information Research Scientists](https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm)
+
+::: {.notes}
+Accessed October 19, 2026. The resources page includes the calculations, interpretation limits, the original-research source, and dated job-posting details. All external facts should remain attached to their sources when adapting this deck. No salaries or job-growth projections are used in this lecture.
+:::

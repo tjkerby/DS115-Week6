@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "slides/day6.html#where-can-data-science-take-me",
+    "href": "slides/day6.html#where-can-data-science-take-me",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Where can data science take me?",
+    "text": "Where can data science take me?\nA bachelor’s degree gives you a foundation for contributing to data work.\n\nHow can graduate education and experience change the work you do and the responsibility you take on?\n\n\nWeek 6. Spend about 1 minute here, then move straight to graduate education. The first eight slides of the earlier draft have been condensed into this single opening. Avoid repeating the earlier lectures on job titles, work settings, and the interdisciplinary process. A bachelor’s is a starting point, not a career ceiling. Use the remaining time for the degree discussion, research environments, and student questions. The last three slides are optional reference material. The survey is available at https://forms.gle/EtDPQS7N3yaDtz8f9 and appears as a QR code and clickable link later in the deck. Keep responses private and paraphrase selected questions. No attendance password is stored in this deck."
+  },
+  {
+    "objectID": "slides/day6.html#a-masters-degree",
+    "href": "slides/day6.html#a-masters-degree",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "A master’s degree",
+    "text": "A master’s degree\nDevelop more depth in a field or specialization.\n\nCompare and adapt methods for more demanding problems\nTake greater ownership of technical projects as you gain experience\nBuild research experience when the program includes it\n\n\nLook at the actual program: coursework, projects, thesis, and opportunities to work with others.\n\n\nAbout 1 minute. Explain professional/coursework programs and research/thesis programs in plain language. Requirements differ, so avoid a universal split. Do not describe master’s graduates as restricted to supporting researchers or leading at small companies. BLS reports that statisticians typically need a master’s, with some entry positions accepting a bachelor’s: https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm. The Google example later illustrates experience and education as alternative advertised qualifications. Additional technical depth is an educational aim, not a guarantee of promotion."
+  },
+  {
+    "objectID": "slides/day6.html#a-phd",
+    "href": "slides/day6.html#a-phd",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "A PhD",
+    "text": "A PhD\nDevelop sustained experience conducting original research.\n\nIdentify an unanswered question worth investigating\nDevelop an approach and assess its limitations\nProduce and defend a contribution to what is known\n\n\nMuch of the learning comes from pursuing a question whose answer is uncertain.\n\n\nAbout 2 minutes. Explain a dissertation in accessible language. A PhD includes coursework but also an extended research process with feedback and growing independence. Source for dissertation and original research: https://www.bls.gov/ooh/education-training-and-library/postsecondary-teachers.htm. After introducing this generally, optionally share what surprised you about your own graduate training or how you learned you enjoyed research. Do not invent an anecdote or suggest doctoral graduates automatically begin as senior leaders."
+  },
+  {
+    "objectID": "slides/day6.html#research-independence-and-leadership",
+    "href": "slides/day6.html#research-independence-and-leadership",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Research independence and leadership",
+    "text": "Research independence and leadership\n\n\n\n\n\n\n\nResponsibility\nWhat it involves\n\n\n\n\nResearch independence\nForming questions and judging how to investigate them\n\n\nTechnical leadership\nGuiding methods, systems, and technical decisions\n\n\nOrganizational leadership\nCoordinating people, resources, and priorities\n\n\n\n\nThese responsibilities overlap. Each develops through relevant practice and experience.\n\n\nAbout 1 minute. This is a conceptual distinction, not a survey result. A PhD trains research independence in a specific area. Leadership also depends on communication, judgment, domain knowledge, experience, and organizational trust. A new doctoral graduate may still need substantial guidance in a new workplace. Someone with a bachelor’s and many years of relevant work may have much broader responsibility."
+  },
+  {
+    "objectID": "slides/day6.html#education-and-research-work",
+    "href": "slides/day6.html#education-and-research-work",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Education and research work",
+    "text": "Education and research work\nAmong employed computer and mathematical scientists in the United States:\n\n\n\n\nHighest degree\nR&D as primary work activity\n\n\n\n\nBachelor’s\nAbout 12%\n\n\nMaster’s\nAbout 13%\n\n\nDoctorate\nAbout 34%\n\n\n\n\n\nNSF, National Survey of College Graduates, 2023, Table 3-1. R&D includes basic research, applied research, and development. This occupation group is broader than data science.\n\n\nAbout 2 minutes including the following slide. Percentages calculated from rounded published counts: bachelor’s 357,000/2,989,000 = 11.94%; master’s 174,000/1,353,000 = 12.86%; doctorate 72,000/211,000 = 34.12%. Table 3-1 pages 2, 4, and 5 in one-based PDF numbering. Primary work activity means the main category, not whether someone ever participates in research. The broad group includes computer and information scientists, mathematical scientists, and postsecondary computer/math teachers. It is not restricted to industry or data scientists. Source: https://www.ncses.nsf.gov/pubs/nsf25322/assets/data-tables/tables/nsf25322-tab003-001.pdf. Values verified October 19, 2026. Do not imply these numbers measure independent research, leadership, ability, or causal returns to a degree."
+  },
+  {
+    "objectID": "slides/day6.html#what-can-we-conclude",
+    "href": "slides/day6.html#what-can-we-conclude",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "What can we conclude?",
+    "text": "What can we conclude?\n\nDoctorate holders in this group more often reported research as their main activity.\nThe bachelor’s and master’s groups look similar on this measure.\nThe table does not measure leadership or autonomy.\n\n\nWhat else would you want to know before explaining the differences?\n\n\nAllow one or two answers. Possible considerations: prior interests, specialization, sector, age, career experience, and the kinds of jobs people seek. This is an association rather than a causal effect of earning a degree. Keep it as a short evidence-reading moment rather than a statistics lesson. Source is the same NSF table as the previous slide. A bachelor’s holder contributing to research need not have R&D as their primary activity, and a doctorate holder may choose other kinds of work."
+  },
+  {
+    "objectID": "slides/day6.html#leadership-also-develops-through-experience",
+    "href": "slides/day6.html#leadership-also-develops-through-experience",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Leadership also develops through experience",
+    "text": "Leadership also develops through experience\nGoogle: Senior Staff Product Data Scientist\n\nResponsibilities include technical direction, statistical infrastructure, and mentoring senior colleagues.\nAdvertised minimum: bachelor’s plus 13 years of relevant experience, or master’s plus 10 years.\n\n\nThis example shows an advertised route to substantial technical responsibility without a PhD.\n\n\nGoogle Careers: Senior Staff Product Data Scientist, Merchant Shopping, accessed October 19, 2026. A single posting does not establish typical hiring outcomes.\n\n\nAbout 1 minute. Paraphrase rather than quote the posting. Minimum education: bachelor’s in a relevant quantitative field. Required experience: 13 years, or 10 with a master’s. Master’s is also listed among preferred qualifications. The responsibilities include architecture for statistical experimentation and mentoring senior colleagues. Use this to counter the idea that degree level fixes a career ceiling. The posting does not tell us the degree of the eventual hire, how often this route occurs, or the causal value of further education. The link may later expire, so retain this dated summary. Source: https://www.google.com/about/careers/applications/jobs/results/109185093674640070."
+  },
+  {
+    "objectID": "slides/day6.html#research-beyond-universities",
+    "href": "slides/day6.html#research-beyond-universities",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Research beyond universities",
+    "text": "Research beyond universities\n\nOver 90%\n\nof notable AI models in 2025 came from industry.\n\nAn example of industry’s substantial role in AI research and development.\n\n\nStanford HAI, 2026 AI Index, Research and Development. This measure concerns notable AI models, not all data science research.\n\n\nAbout 1 minute. The chapter states industry produced over 90% of notable AI models in 2025. This does not mean industry performs 90% of all AI or data science research. Model development and publication counts are different measures. Source: https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development, reviewed October 19, 2026. Connect to the next slide about the environments that make certain questions feasible, while marking that explanation as interpretation rather than a causal result of the percentage."
+  },
+  {
+    "objectID": "slides/day6.html#the-research-environment-matters",
+    "href": "slides/day6.html#the-research-environment-matters",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "The research environment matters",
+    "text": "The research environment matters\n\nAccess to useful data and computing resources\nColleagues with relevant expertise\nOpportunities to test ideas in practice\nFreedom to choose questions and share findings\n\n\nDifferent workplaces offer different combinations of these conditions.\n\n\nAbout 1 minute. Discuss the user’s point that companies may have advantages in compute, proprietary data, and deployment at scale, especially in resource-intensive AI. Universities and other organizations can offer different research agendas and collaboration or publication opportunities. Avoid treating either environment as uniformly superior. These are considerations for evaluating a particular workplace, not statistics established by the AI model count. After discussing the general idea, an optional brief personal example from industry, a national laboratory, or academia can add nuance."
+  },
+  {
+    "objectID": "slides/day6.html#considering-graduate-school",
+    "href": "slides/day6.html#considering-graduate-school",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Considering graduate school",
+    "text": "Considering graduate school\n\nWhat work would I like to become better prepared to do?\nDoes this program offer the training and experience I want?\nFor research, who would I work with and on what questions?\nWhat would the time, funding, and personal commitments involve?\n\n\nAbout 2 minutes. Students need not choose now. Briefly explain that program names alone do not establish fit. Different fields, including statistics, computer science, data science, biostatistics, and application areas, can provide relevant preparation. Ask about the actual curriculum, graduate experiences, research mentorship, and outcomes. Funding arrangements vary by program and offer. Students should confirm tuition, stipend, fees, conditions, duration, and living costs directly. Avoid blanket promises about funding or employment. They can work first or explore research during the undergraduate degree to gather information."
+  },
+  {
+    "objectID": "slides/day6.html#choosing-a-next-step",
+    "href": "slides/day6.html#choosing-a-next-step",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Choosing a next step",
+    "text": "Choosing a next step\n\nWhat would you want to learn about a job or graduate program before deciding whether to pursue it?\n\n\nThink for a moment, then compare with a neighbor.\n\n\nAllow about 2 minutes for the exchange. The shorter opening leaves more time for the degree discussion and student questions. Hear examples of useful information, not final career commitments. Connect to informational interviews and the earlier mentoring discussion. If you are behind, shorten this exchange to preserve the survey and student questions. Do not add another graded planning task."
+  },
+  {
+    "objectID": "slides/day6.html#your-final-reflection",
+    "href": "slides/day6.html#your-final-reflection",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Your final reflection",
+    "text": "Your final reflection\n\n\nWhat do you understand about data science now that you did not understand at the beginning?\nWhich parts interest you most, and what course experiences informed that conclusion?\nWhat have you learned about academic pathways, BYU resources, or professional opportunities?\nWhat important question are you still trying to answer?\nWhat specific action will you take during the next semester?\n\n\n\nAllow 3 minutes for initial notes, not a completed submission. These are shortened versions of the assignment questions. The reflection page preserves the full assignment wording. Ask students to refer to specific course experiences. They can use today’s discussion to refine their ideas and submit using the existing assignment process. No new deadline or grading requirement is introduced here. They are not expected to have their future determined. A clearer direction, better evidence, or a more useful question is a good outcome."
+  },
+  {
+    "objectID": "slides/day6.html#course-feedback-and-questions",
+    "href": "slides/day6.html#course-feedback-and-questions",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Course feedback and questions",
+    "text": "Course feedback and questions\n\n\nScan the QR code or open:\nforms.gle/EtDPQS7N3yaDtz8f9\n\nShare feedback and a question for discussion.\nFind the attendance quiz password after submitting.\n\n\nSubmit your final reflection separately through the assignment.\n\n\n\n\n\n\n\nAllow about 5 minutes. The instructor supplied the completed survey URL: https://forms.gle/EtDPQS7N3yaDtz8f9. The QR encodes this exact address and the visible link is clickable. Read responses privately and group similar questions. Do not project the response summary, feedback, timestamps, or any identifying details. Paraphrase selected discussion questions. The final reflection remains a separate assignment. The survey’s actual questions and completion message are managed in Google Forms."
+  },
+  {
+    "objectID": "slides/day6.html#your-questions",
+    "href": "slides/day6.html#your-questions",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Your questions",
+    "text": "Your questions\n\nWhat would you like to talk through before we finish?\n\n\nProtect about 10 minutes. Group similar anonymous questions and paraphrase them. Invite verbal follow-ups as well. Distinguish your experience, general patterns, and information you would need to verify. If no questions arrive, backup prompts are in the reference slides after the closing. Avoid displaying response timestamps or raw reflections. Students may use the unresolved question from their reflection as their anonymous submission."
+  },
+  {
+    "objectID": "slides/day6.html#as-you-continue",
+    "href": "slides/day6.html#as-you-continue",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "As you continue",
+    "text": "As you continue\n\nYou have more ways to explore the field, people to learn from, and questions worth pursuing.\n\nThank you for being part of DS 115.\n\nAbout 2 minutes. Offer your own brief closing about what you hope students take from the course. Remind them to check Canvas for any remaining work and the existing deadlines, especially the final reflection. Do not invent dates or suggest prior assignments need repeating. End here during the normal lecture. The remaining slides are reference material, not an additional lecture segment."
+  },
+  {
+    "objectID": "slides/day6.html#reference-questions-about-graduate-programs",
+    "href": "slides/day6.html#reference-questions-about-graduate-programs",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Reference: questions about graduate programs",
+    "text": "Reference: questions about graduate programs\n\nWhat do graduates of this program go on to do?\nWhat experiences are available beyond coursework?\nHow does research advising work?\nWhat funding is offered, for how long, and under what conditions?\nHow does the program fit my circumstances and interests?\n\n\nOptional reference only. Students can ask current graduate students as well as faculty and program staff. Distinguish advertised funding from the details of an actual offer. For admissions prerequisites, direct-entry PhD options, or deferral, check the particular program’s current rules rather than generalizing."
+  },
+  {
+    "objectID": "slides/day6.html#reference-questions-we-could-discuss",
+    "href": "slides/day6.html#reference-questions-we-could-discuss",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Reference: questions we could discuss",
+    "text": "Reference: questions we could discuss\n\nHow can I learn whether I enjoy research?\nWhat might I learn by working before graduate school?\nDo I need a master’s before applying for a PhD?\nHow can I compare programs and funding offers?\nWhat if my first job differs from what I expected?\n\n\nOptional backup questions. Return to the Your questions slide if using these to prompt discussion. Address program-specific admissions and funding questions with appropriate uncertainty and point students to the actual program. Leave room for work, family, and other personal circumstances when discussing decisions."
+  },
+  {
+    "objectID": "slides/day6.html#reference-sources",
+    "href": "slides/day6.html#reference-sources",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Reference: sources",
+    "text": "Reference: sources\n\nNSF: National Survey of College Graduates, 2023, Table 3-1\nGoogle: Senior Staff Product Data Scientist, Merchant Shopping\nStanford HAI: 2026 AI Index, Research and Development\nBLS: Data Scientists\nBLS: Mathematicians and Statisticians\nBLS: Computer and Information Research Scientists\n\n\nAccessed October 19, 2026. The resources page includes the calculations, interpretation limits, the original-research source, and dated job-posting details. All external facts should remain attached to their sources when adapting this deck. No salaries or job-growth projections are used in this lecture."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "",
+    "text": "This week we look beyond the undergraduate degree: the work people do with data, what graduate education prepares you to do, and how experience changes your responsibilities.\nOpen the lecture slides"
+  },
+  {
+    "objectID": "index.html#during-class",
+    "href": "index.html#during-class",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "During class",
+    "text": "During class\n\nExplore examples of work in companies, research organizations, government, and universities.\nCompare the preparation offered by bachelor’s, master’s, and doctoral degrees.\nConsider the difference between research independence and organizational leadership.\nBegin your final reflection, complete the course feedback survey, and discuss your questions."
+  },
+  {
+    "objectID": "index.html#at-the-end-of-class",
+    "href": "index.html#at-the-end-of-class",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "At the end of class",
+    "text": "At the end of class\nOpen the course feedback survey. You can also scan the QR code in the slides. The survey is separate from your final reflection assignment. The final attendance quiz password appears after you submit the survey.\nFinal reflection questions"
+  },
+  {
+    "objectID": "index.html#looking-further",
+    "href": "index.html#looking-further",
+    "title": "Week 6: Where Can Data Science Take Me?",
+    "section": "Looking further",
+    "text": "Looking further\nSources and further reading includes the NSF data and career example discussed in class."
+  }
+]

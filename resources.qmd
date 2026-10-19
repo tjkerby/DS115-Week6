@@ -1,0 +1,53 @@
+---
+title: "Sources and Further Reading"
+---
+
+Sources reviewed October 19, 2026. Job postings and program requirements can change.
+
+## Education and research work
+
+The [National Survey of College Graduates, 2023, Table 3-1](https://www.ncses.nsf.gov/pubs/nsf25322/assets/data-tables/tables/nsf25322-tab003-001.pdf), published by NSF's National Center for Science and Engineering Statistics, reports employed graduates by highest degree, occupation, and primary work activity.
+
+For the computer and mathematical scientist occupation group:
+
+| Highest degree | Total employed | R&D as primary activity | Calculated share |
+|---|---:|---:|---:|
+| Bachelor's | 2,989,000 | 357,000 | 11.94% |
+| Master's | 1,353,000 | 174,000 | 12.86% |
+| Doctorate | 211,000 | 72,000 | 34.12% |
+
+Calculated share = R&D count divided by total employed, multiplied by 100. The lecture rounds these shares to 12%, 13%, and 34%. The published population estimates are themselves rounded to the nearest 1,000.
+
+### Interpretation
+
+- R&D includes basic research, applied research, and development.
+- The group includes computer and information scientists, mathematical scientists, and postsecondary computer and math teachers. It is broader than data science and spans employment sectors.
+- Primary activity is different from participation in research at any point in one's work.
+- These estimates show an association. They do not establish what earning a degree causes.
+- The table does not measure leadership, research independence, or autonomy. Interests, specialization, employment sector, and experience may help explain differences.
+
+The bachelor's, master's, and doctorate rows appear on PDF pages 2, 4, and 5, respectively.
+
+## Experience and technical leadership
+
+[Google Careers: Senior Staff Product Data Scientist, Merchant Shopping](https://www.google.com/about/careers/applications/jobs/results/109185093674640070)
+
+As accessed October 19, 2026, this posting lists a relevant bachelor's degree and 13 years of experience, or 10 years with a master's, among its minimum qualifications. A master's is also a preferred qualification. Responsibilities include guiding technical development, designing statistical infrastructure, and mentoring senior colleagues.
+
+This is one example of an advertised route to substantial technical responsibility without a PhD. It does not establish typical qualifications, the degree of the eventual hire, or the causal value of additional education. The link may expire.
+
+## Research outside universities
+
+[Stanford HAI: 2026 AI Index, Research and Development](https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development)
+
+The report states that industry produced over 90% of notable AI models in 2025. That is evidence about notable model development, not a measurement of all AI research or all data science research. The lecture uses it to introduce the role of industry and the importance of evaluating a particular research environment.
+
+## Occupational profiles
+
+- [Data Scientists, U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/math/data-scientists.htm): responsibilities and typical entry education, including employer variation.
+- [Mathematicians and Statisticians, BLS](https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm): work across settings and typical education for statisticians.
+- [Computer and Information Research Scientists, BLS](https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm): research work in government, industry, and universities.
+- [Postsecondary Teachers, BLS](https://www.bls.gov/ooh/education-training-and-library/postsecondary-teachers.htm): typical doctoral preparation for four-year university faculty and the dissertation's original research requirement.
+
+These profiles describe broad patterns. Read actual responsibilities and qualifications when exploring a particular position.
+

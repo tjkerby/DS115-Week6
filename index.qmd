@@ -1,0 +1,25 @@
+---
+title: "Week 6: Where Can Data Science Take Me?"
+---
+
+This week we look beyond the undergraduate degree: the work people do with data, what graduate education prepares you to do, and how experience changes your responsibilities.
+
+[Open the lecture slides](slides/day6.qmd){.primary-link}
+
+## During class
+
+- Explore examples of work in companies, research organizations, government, and universities.
+- Compare the preparation offered by bachelor's, master's, and doctoral degrees.
+- Consider the difference between research independence and organizational leadership.
+- Begin your final reflection, complete the course feedback survey, and discuss your questions.
+
+## At the end of class
+
+[Open the course feedback survey](https://forms.gle/EtDPQS7N3yaDtz8f9). You can also scan the QR code in the slides. The survey is separate from your final reflection assignment. The final attendance quiz password appears after you submit the survey.
+
+[Final reflection questions](reflection.qmd)
+
+## Looking further
+
+[Sources and further reading](resources.qmd) includes the NSF data and career example discussed in class.
+

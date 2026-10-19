@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - slides/day6.qmd
+    - reflection.qmd
+    - resources.qmd
+
+website:
+  title: "DS 115: Exploring Data Science"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Week 6
+      - href: slides/day6.qmd
+        text: Slides
+      - href: reflection.qmd
+        text: Final reflection
+      - href: resources.qmd
+        text: Sources and further reading
+
+format:
+  html:
+    theme: cosmo
+    css: assets/site.css
+    toc: true
+    lang: en
+
+execute:
+  enabled: false
+

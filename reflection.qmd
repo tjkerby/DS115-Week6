@@ -1,0 +1,22 @@
+---
+title: "Final Reflection"
+---
+
+At the beginning of this course, you may have known that Data Science sounded interesting without knowing exactly what the field included or where you might fit within it. This reflection asks you to synthesize what you have learned and identify a useful next step.
+
+Respond briefly to each question:
+
+1. What do you understand about Data Science now that you did not understand at the beginning of the course?
+2. Which parts of Data Science currently interest you most, and what experiences from the course informed that conclusion?
+3. What have you learned about the academic pathways, BYU resources, or professional opportunities available to you?
+4. What important question are you still trying to answer?
+5. What is one specific action you will take during the next semester?
+
+Your reflection should refer to specific course experiences, such as the data activity, job-posting exploration, major comparison, advisor meeting, graduation plan, or professional outreach.
+
+You are not expected to have your entire academic or professional future determined. A good outcome may be a clearer direction, better evidence about your interests, or a more useful question to investigate.
+
+## Submission
+
+Use the course assignment in Canvas and follow its existing submission instructions and deadline. The anonymous course feedback survey is separate from this reflection.
+

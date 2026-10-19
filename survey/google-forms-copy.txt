@@ -1,0 +1,52 @@
+The instructor has completed the survey: https://forms.gle/EtDPQS7N3yaDtz8f9. The wording below is the original proposed survey, retained for reference. It has not been compared with the live form.
+
+FORM TITLE
+DS 115: Course Feedback and Final Questions
+
+FORM DESCRIPTION
+Your final reflection asks you to think about what you have learned, what interests you, and what you would like to do next. This survey gives you a chance to share feedback about the course and submit a question for our final discussion.
+
+This survey does not collect your name or email address. Please submit your final reflection separately through the assignment.
+
+You may skip any question. The password for the last attendance quiz will appear after you submit.
+
+QUESTION 1
+Type: Paragraph
+Required: Off
+Title: Which course experience was most useful to you, and what made it useful?
+Description: This might be a class discussion or activity, job-posting exploration, major comparison, advisor meeting, graduation plan, professional outreach, or something else.
+
+QUESTION 2
+Type: Paragraph
+Required: Off
+Title: What would you change to make this course more useful for future students?
+Description: You might suggest something to add, spend more time on, shorten, or approach differently.
+
+QUESTION 3
+Type: Paragraph
+Required: Off
+Title: What question are you still trying to answer that you would like us to discuss today?
+Description: You are welcome to use the question from your final reflection. Questions about careers, graduate school, academic preparation, or anything else related to the course are welcome. I may paraphrase your question during our discussion. Please leave out identifying details.
+
+QUESTION 4
+Type: Paragraph
+Required: Off
+Title: Is there anything else you would like me to know about your experience in DS 115?
+Description: Leave blank.
+
+CONFIRMATION MESSAGE
+Thank you for your feedback!
+
+The password for the last attendance quiz is: [INSERT ACTUAL QUIZ PASSWORD]
+
+Please submit your final reflection separately through the Canvas assignment. We will discuss a selection of your questions before class ends.
+
+SETTINGS
+Do not collect email addresses. Do not add identity questions.
+Turn off the quiz setting, one-response limit, question shuffling, and respondent access to response summaries.
+Keep all four questions optional.
+Configure responder access and test it in a signed-out/private browser before claiming anonymity.
+Replace the password placeholder before sharing the form.
+Use the published responder URL in Canvas or show it alongside the survey slide.
+
+This file is for manual copying into Google Forms. It is not an automatic import format.
